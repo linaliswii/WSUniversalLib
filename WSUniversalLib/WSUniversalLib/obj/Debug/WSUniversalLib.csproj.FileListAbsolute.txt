@@ -1,0 +1,6 @@
+C:\Users\liswi\source\repos\WSUniversalLib\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+C:\Users\liswi\source\repos\WSUniversalLib\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+C:\Users\liswi\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
+C:\Users\liswi\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\liswi\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+C:\Users\liswi\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
